@@ -1,12 +1,3 @@
-/**
- * Example application for Hadoop: Driver
- * Topics in Distributed Computing
- * @author Ruben Van den Bossche
- * http://hadoop.apache.org/common/docs/r1.0.3/mapred_tutorial.html
- * 
- * Run:
- * hadoop jar Wordcount.jar be.ac.ua.comp.hadoop.WordCountDriver <input path> <output path>
- */
 
 package be.heydari.invertedindex;
 
