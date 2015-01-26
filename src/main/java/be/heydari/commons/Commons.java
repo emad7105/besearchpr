@@ -2,6 +2,8 @@ package be.heydari.commons;
 
 import com.amazonaws.auth.AWSCredentials;
 import com.amazonaws.auth.BasicAWSCredentials;
+import com.amazonaws.regions.Region;
+import com.amazonaws.regions.Regions;
 import com.amazonaws.services.dynamodbv2.AmazonDynamoDBClient;
 
 /**
@@ -16,6 +18,8 @@ public class Commons {
 	public static AmazonDynamoDBClient getDynamoDBObject() {
 		AWSCredentials myCredentials = new BasicAWSCredentials(ACCESS_KEY, SECRET_KEY);
 		AmazonDynamoDBClient client = new AmazonDynamoDBClient(myCredentials);
+		Region usWest2 = Region.getRegion(Regions.US_WEST_2);
+		client.setRegion(usWest2);
 		return client;
 	}
 }
