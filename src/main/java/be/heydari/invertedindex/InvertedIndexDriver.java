@@ -26,7 +26,7 @@ public class InvertedIndexDriver {
 		
 		conf.setOutputKeyClass(Text.class);
 		conf.setOutputValueClass(Text.class);
-		
+
 		FileInputFormat.setInputPaths(conf, new Path(args[0]));
 		FileOutputFormat.setOutputPath(conf, new Path(args[1]));
 		
