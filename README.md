@@ -22,3 +22,7 @@ This is a Map/Reduce Hadoop job in order to analyze a set of web pages downloade
  hadoop fs -ls s3n://besearchdonebucket/
  ```
 
+# Author
+Emad Heydari Beni <br>
+http://heydari.be <br>
+Follow me Twitter @heydari_be
