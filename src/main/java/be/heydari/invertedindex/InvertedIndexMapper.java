@@ -10,6 +10,8 @@ import org.apache.hadoop.io.Text;
 import org.apache.hadoop.mapred.*;
 
 import java.io.IOException;
+import java.util.ArrayList;
+import java.util.List;
 import java.util.StringTokenizer;
 
 public class InvertedIndexMapper extends MapReduceBase implements Mapper<LongWritable, Text, Text, Text> {
@@ -17,16 +19,16 @@ public class InvertedIndexMapper extends MapReduceBase implements Mapper<LongWri
 	private final static Text location = new Text();
 	private final static Text word = new Text();
 
-	String stopWordsString = "a,able,about,across,after,all,almost,also,am,among,an,and,any,are,as,at,be,because,been,but,by,can,cannot,could,dear,did,do,does,either,else,ever,every,for,from,get,got,had,has,have,he,her,hers,him,his,how,however,i,if,in,into,is,it,its,just,least,let,like,likely,may,me,might,most,must,my,neither,no,nor,not,of,off,often,on,only,or,other,our,own,rather,said,say,says,she,should,since,so,some,than,that,the,their,them,then,there,these,they,this,tis,to,too,twas,us,wants,was,we,were,what,when,where,which,while,who,whom,why,will,with,would,yet,you,your";
-	String[] stopwords;
+	public String stopWordsString = "a,able,about,across,after,all,almost,also,am,among,an,and,any,are,as,at,be,because,been,but,by,can,cannot,could,dear,did,do,does,either,else,ever,every,for,from,get,got,had,has,have,he,her,hers,him,his,how,however,i,if,in,into,is,it,its,just,least,let,like,likely,may,me,might,most,must,my,neither,no,nor,not,of,off,often,on,only,or,other,our,own,rather,said,say,says,she,should,since,so,some,than,that,the,their,them,then,there,these,they,this,tis,to,too,twas,us,wants,was,we,were,what,when,where,which,while,who,whom,why,will,with,would,yet,you,your";
+	public List<String> stopwords;
 
 
 	public InvertedIndexMapper() {
 		//Stop Words (preparing) 
 		StringTokenizer stopwordsTokenizer = new StringTokenizer(stopWordsString, ",");
-		stopwords = new String[stopwordsTokenizer.countTokens()];
-		for (int i = 0; i < stopwords.length; i++) {
-			stopwords[i] = stopwordsTokenizer.nextToken();
+		stopwords = new ArrayList<String>();
+		while(stopwordsTokenizer.hasMoreTokens()) {
+			stopwords.add(stopwordsTokenizer.nextToken());
 		}
 	}
 
@@ -49,7 +51,7 @@ public class InvertedIndexMapper extends MapReduceBase implements Mapper<LongWri
 		StringTokenizer tokenizer = new StringTokenizer(line);
 		while (tokenizer.hasMoreTokens()) {
 			String token = tokenizer.nextToken();
-			if (!isStopWord(token)) {
+			if (!isStopWord(token) && !isNumeric(token) && (token.length()>3)) {
 				word.set(token);
 				output.collect(word, location);
 			}
@@ -69,10 +71,11 @@ public class InvertedIndexMapper extends MapReduceBase implements Mapper<LongWri
 	}
 
 	public boolean isStopWord(String word) {
-		for (String stopword : stopwords) {
-			if (stopword.equals(word))
-				return true;
-		}
-		return false;
+		return stopwords.contains(word);
+	}
+
+	public boolean isNumeric(String str)
+	{
+		return str.matches("-?\\d+(.\\d+)?");
 	}
 }
