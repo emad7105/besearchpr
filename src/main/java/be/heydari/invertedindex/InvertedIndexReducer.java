@@ -8,6 +8,7 @@ package be.heydari.invertedindex;
 import be.heydari.commons.Commons;
 import com.amazonaws.services.dynamodbv2.AmazonDynamoDBClient;
 import com.amazonaws.services.dynamodbv2.model.AttributeValue;
+import com.amazonaws.services.dynamodbv2.model.BatchWriteItemRequest;
 import com.amazonaws.services.dynamodbv2.model.PutItemRequest;
 import org.apache.hadoop.io.Text;
 import org.apache.hadoop.mapred.MapReduceBase;
@@ -51,16 +52,27 @@ public class InvertedIndexReducer extends MapReduceBase implements Reducer<Text,
 		int index = 0;
 		StringBuilder result = new StringBuilder();
 		result.append(";");
+		
+		int writeCapacity = 30;
 		while (index < files.size()) {
 			result.append(files.get(index) + "," + occurs.get(index).toString() + ";");
 
-	        /*Put item into DynamoDB*/
+	        /* Put item into DynamoDB */
 			items = new HashMap<String, AttributeValue>();
 			items.put("Key", new AttributeValue().withS(key.toString()));
 			items.put("Location", new AttributeValue().withS((files.get(index)).replaceAll("!!", "/")));
 			itemRequest = new PutItemRequest().withTableName("InvertedIndex").withItem(items);
 			client.putItem(itemRequest);
 			index++;
+			
+			if (writeCapacity-- == 1) {
+				try {
+					Thread.sleep(1000);
+				} catch (InterruptedException e) {
+					//ignore
+				}
+				writeCapacity = 30;
+			}
 		}
 
 		output.collect(key, new Text(result.toString()));
