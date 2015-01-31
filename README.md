@@ -21,6 +21,20 @@ This is a Map/Reduce Hadoop job in order to analyze a set of web pages downloade
  ```bash
  hadoop fs -ls s3n://besearchdonebucket/
  ```
+ 
+ ## Link Graph
+ This Hadoop job is about figuring out and producing the in-comming and out-going links of all links inside all pre-downloaded pages in our distributed file storage system (Amazon S3). In the end the Reduce step generates:
+ 
+ ```bash
+ 		# output style:
+		 
+		 # LINK,<#,incoming>,<#,outgoing>
+		 
+		 ink1,<10,link2,link3,...>,<4,link2,link5,link6,...>
+		 link2,<4,link3,link1,...>,<3,link1,link3,...>
+		 ...
+ ```
+ 
 
 # Author
 Emad Heydari Beni <br>
