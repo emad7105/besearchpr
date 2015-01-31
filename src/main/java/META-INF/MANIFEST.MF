@@ -1,3 +1,3 @@
 Manifest-Version: 1.0
-Main-Class: be.heydari.invertedindex.InvertedIndexDriver
+Main-Class: be.heydari.pagerank.PageRankDriver
 
