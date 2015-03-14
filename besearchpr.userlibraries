@@ -1,0 +1,721 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<eclipse-userlibraries>
+  <library name="Maven: com.amazonaws:aws-java-sdk-elasticbeanstalk:1.9.16">
+    <archive path="/Users/emad7105/.m2/repository/com/amazonaws/aws-java-sdk-elasticbeanstalk/1.9.16/aws-java-sdk-elasticbeanstalk-1.9.16.jar" />
+  </library>
+  <library name="Maven: com.amazonaws:aws-java-sdk:1.9.16">
+    <archive path="/Users/emad7105/.m2/repository/com/amazonaws/aws-java-sdk/1.9.16/aws-java-sdk-1.9.16.jar" />
+  </library>
+  <library name="Maven: commons-httpclient:commons-httpclient:3.0.1">
+    <archive path="/Users/emad7105/.m2/repository/commons-httpclient/commons-httpclient/3.0.1/commons-httpclient-3.0.1.jar" />
+  </library>
+  <library name="Maven: commons-codec:commons-codec:1.4">
+    <archive path="/Users/emad7105/.m2/repository/commons-codec/commons-codec/1.4/commons-codec-1.4.jar" />
+  </library>
+  <library name="Maven: commons-collections:commons-collections:3.2.1">
+    <archive path="/Users/emad7105/.m2/repository/commons-collections/commons-collections/3.2.1/commons-collections-3.2.1.jar" />
+  </library>
+  <library name="Maven: com.amazonaws:aws-java-sdk-sts:1.9.14">
+    <archive path="/Users/emad7105/.m2/repository/com/amazonaws/aws-java-sdk-sts/1.9.14/aws-java-sdk-sts-1.9.14.jar" />
+  </library>
+  <library name="Maven: com.amazonaws:aws-java-sdk-directconnect:1.9.16">
+    <archive path="/Users/emad7105/.m2/repository/com/amazonaws/aws-java-sdk-directconnect/1.9.16/aws-java-sdk-directconnect-1.9.16.jar" />
+  </library>
+  <library name="Maven: com.amazonaws:aws-java-sdk-iam:1.9.14">
+    <archive path="/Users/emad7105/.m2/repository/com/amazonaws/aws-java-sdk-iam/1.9.14/aws-java-sdk-iam-1.9.14.jar" />
+  </library>
+  <library name="Maven: net.java.dev.jets3t:jets3t:0.6.1">
+    <archive path="/Users/emad7105/.m2/repository/net/java/dev/jets3t/jets3t/0.6.1/jets3t-0.6.1.jar" />
+  </library>
+  <library name="Maven: com.amazonaws:aws-java-sdk-config:1.9.14">
+    <archive path="/Users/emad7105/.m2/repository/com/amazonaws/aws-java-sdk-config/1.9.14/aws-java-sdk-config-1.9.14.jar" />
+  </library>
+  <library name="Maven: joda-time:joda-time:2.7">
+    <archive path="/Users/emad7105/.m2/repository/joda-time/joda-time/2.7/joda-time-2.7.jar" />
+  </library>
+  <library name="Maven: com.amazonaws:aws-java-sdk-cognitosync:1.9.16">
+    <archive path="/Users/emad7105/.m2/repository/com/amazonaws/aws-java-sdk-cognitosync/1.9.16/aws-java-sdk-cognitosync-1.9.16.jar" />
+  </library>
+  <library name="Maven: com.amazonaws:aws-java-sdk-cloudwatch:1.9.16">
+    <archive path="/Users/emad7105/.m2/repository/com/amazonaws/aws-java-sdk-cloudwatch/1.9.16/aws-java-sdk-cloudwatch-1.9.16.jar" />
+  </library>
+  <library name="Maven: com.amazonaws:aws-java-sdk-kms:1.9.14">
+    <archive path="/Users/emad7105/.m2/repository/com/amazonaws/aws-java-sdk-kms/1.9.14/aws-java-sdk-kms-1.9.14.jar" />
+  </library>
+  <library name="Maven: org.mortbay.jetty:servlet-api-2.5:6.1.14">
+    <archive path="/Users/emad7105/.m2/repository/org/mortbay/jetty/servlet-api-2.5/6.1.14/servlet-api-2.5-6.1.14.jar" />
+  </library>
+  <library name="Maven: com.sun.jersey:jersey-core:1.8">
+    <archive path="/Users/emad7105/.m2/repository/com/sun/jersey/jersey-core/1.8/jersey-core-1.8.jar" />
+  </library>
+  <library name="Maven: com.amazonaws:aws-java-sdk-swf-libraries:1.9.14">
+    <archive path="/Users/emad7105/.m2/repository/com/amazonaws/aws-java-sdk-swf-libraries/1.9.14/aws-java-sdk-swf-libraries-1.9.14.jar" />
+  </library>
+  <library name="Maven: asm:asm:3.1">
+    <archive path="/Users/emad7105/.m2/repository/asm/asm/3.1/asm-3.1.jar" />
+  </library>
+  <library name="Maven: com.amazonaws:aws-java-sdk-support:1.9.16">
+    <archive path="/Users/emad7105/.m2/repository/com/amazonaws/aws-java-sdk-support/1.9.16/aws-java-sdk-support-1.9.16.jar" />
+  </library>
+  <library name="Maven: commons-beanutils:commons-beanutils-core:1.8.0">
+    <archive path="/Users/emad7105/.m2/repository/commons-beanutils/commons-beanutils-core/1.8.0/commons-beanutils-core-1.8.0.jar" />
+  </library>
+  <library name="Maven: com.amazonaws:aws-java-sdk-core:1.9.16">
+    <archive path="/Users/emad7105/.m2/repository/com/amazonaws/aws-java-sdk-core/1.9.16/aws-java-sdk-core-1.9.16.jar" />
+  </library>
+  <library name="Maven: xmlenc:xmlenc:0.52">
+    <archive path="/Users/emad7105/.m2/repository/xmlenc/xmlenc/0.52/xmlenc-0.52.jar" />
+  </library>
+  <library name="Maven: com.amazonaws:aws-java-sdk-cloudformation:1.9.16">
+    <archive path="/Users/emad7105/.m2/repository/com/amazonaws/aws-java-sdk-cloudformation/1.9.16/aws-java-sdk-cloudformation-1.9.16.jar" />
+  </library>
+  <library name="Maven: ant:ant:1.6.5">
+    <archive path="/Users/emad7105/.m2/repository/ant/ant/1.6.5/ant-1.6.5.jar" />
+  </library>
+  <library name="Maven: com.amazonaws:aws-java-sdk-cloudfront:1.9.16">
+    <archive path="/Users/emad7105/.m2/repository/com/amazonaws/aws-java-sdk-cloudfront/1.9.16/aws-java-sdk-cloudfront-1.9.16.jar" />
+  </library>
+  <library name="Maven: com.amazonaws:aws-java-sdk-redshift:1.9.14">
+    <archive path="/Users/emad7105/.m2/repository/com/amazonaws/aws-java-sdk-redshift/1.9.14/aws-java-sdk-redshift-1.9.14.jar" />
+  </library>
+  <library name="Maven: com.sun.xml.bind:jaxb-impl:2.2.3-1">
+    <archive path="/Users/emad7105/.m2/repository/com/sun/xml/bind/jaxb-impl/2.2.3-1/jaxb-impl-2.2.3-1.jar" />
+  </library>
+  <library name="Maven: com.amazonaws:aws-java-sdk-cloudhsm:1.9.14">
+    <archive path="/Users/emad7105/.m2/repository/com/amazonaws/aws-java-sdk-cloudhsm/1.9.14/aws-java-sdk-cloudhsm-1.9.14.jar" />
+  </library>
+  <library name="Maven: org.mortbay.jetty:jsp-2.1:6.1.14">
+    <archive path="/Users/emad7105/.m2/repository/org/mortbay/jetty/jsp-2.1/6.1.14/jsp-2.1-6.1.14.jar" />
+  </library>
+  <library name="Maven: com.amazonaws:aws-java-sdk-core:1.9.14">
+    <archive path="/Users/emad7105/.m2/repository/com/amazonaws/aws-java-sdk-core/1.9.14/aws-java-sdk-core-1.9.14.jar" />
+  </library>
+  <library name="Maven: com.amazonaws:aws-java-sdk-sns:1.9.16">
+    <archive path="/Users/emad7105/.m2/repository/com/amazonaws/aws-java-sdk-sns/1.9.16/aws-java-sdk-sns-1.9.16.jar" />
+  </library>
+  <library name="Maven: commons-lang:commons-lang:2.4">
+    <archive path="/Users/emad7105/.m2/repository/commons-lang/commons-lang/2.4/commons-lang-2.4.jar" />
+  </library>
+  <library name="Maven: com.amazonaws:aws-java-sdk-storagegateway:1.9.14">
+    <archive path="/Users/emad7105/.m2/repository/com/amazonaws/aws-java-sdk-storagegateway/1.9.14/aws-java-sdk-storagegateway-1.9.14.jar" />
+  </library>
+  <library name="Maven: org.mortbay.jetty:jsp-api-2.1:6.1.14">
+    <archive path="/Users/emad7105/.m2/repository/org/mortbay/jetty/jsp-api-2.1/6.1.14/jsp-api-2.1-6.1.14.jar" />
+  </library>
+  <library name="Maven: com.amazonaws:aws-java-sdk-iam:1.9.16">
+    <archive path="/Users/emad7105/.m2/repository/com/amazonaws/aws-java-sdk-iam/1.9.16/aws-java-sdk-iam-1.9.16.jar" />
+  </library>
+  <library name="Maven: com.amazonaws:aws-java-sdk-kms:1.9.16">
+    <archive path="/Users/emad7105/.m2/repository/com/amazonaws/aws-java-sdk-kms/1.9.16/aws-java-sdk-kms-1.9.16.jar" />
+  </library>
+  <library name="Maven: com.amazonaws:aws-java-sdk-autoscaling:1.9.16">
+    <archive path="/Users/emad7105/.m2/repository/com/amazonaws/aws-java-sdk-autoscaling/1.9.16/aws-java-sdk-autoscaling-1.9.16.jar" />
+  </library>
+  <library name="Maven: com.amazonaws:aws-java-sdk-sts:1.9.16">
+    <archive path="/Users/emad7105/.m2/repository/com/amazonaws/aws-java-sdk-sts/1.9.16/aws-java-sdk-sts-1.9.16.jar" />
+  </library>
+  <library name="Maven: commons-configuration:commons-configuration:1.6">
+    <archive path="/Users/emad7105/.m2/repository/commons-configuration/commons-configuration/1.6/commons-configuration-1.6.jar" />
+  </library>
+  <library name="Maven: com.amazonaws:aws-java-sdk-ec2:1.9.14">
+    <archive path="/Users/emad7105/.m2/repository/com/amazonaws/aws-java-sdk-ec2/1.9.14/aws-java-sdk-ec2-1.9.14.jar" />
+  </library>
+  <library name="Maven: junit:junit:4.12">
+    <archive path="/Users/emad7105/.m2/repository/junit/junit/4.12/junit-4.12.jar" />
+  </library>
+  <library name="Maven: org.mortbay.jetty:servlet-api:2.5-20081211">
+    <archive path="/Users/emad7105/.m2/repository/org/mortbay/jetty/servlet-api/2.5-20081211/servlet-api-2.5-20081211.jar" />
+  </library>
+  <library name="Maven: com.amazonaws:aws-java-sdk-simpledb:1.9.16">
+    <archive path="/Users/emad7105/.m2/repository/com/amazonaws/aws-java-sdk-simpledb/1.9.16/aws-java-sdk-simpledb-1.9.16.jar" />
+  </library>
+  <library name="Maven: com.amazonaws:aws-java-sdk-rds:1.9.16">
+    <archive path="/Users/emad7105/.m2/repository/com/amazonaws/aws-java-sdk-rds/1.9.16/aws-java-sdk-rds-1.9.16.jar" />
+  </library>
+  <library name="Maven: com.amazonaws:aws-java-sdk-cloudhsm:1.9.16">
+    <archive path="/Users/emad7105/.m2/repository/com/amazonaws/aws-java-sdk-cloudhsm/1.9.16/aws-java-sdk-cloudhsm-1.9.16.jar" />
+  </library>
+  <library name="Maven: javax.xml.stream:stax-api:1.0-2">
+    <archive path="/Users/emad7105/.m2/repository/javax/xml/stream/stax-api/1.0-2/stax-api-1.0-2.jar" />
+  </library>
+  <library name="Maven: com.amazonaws:aws-java-sdk-elasticloadbalancing:1.9.14">
+    <archive path="/Users/emad7105/.m2/repository/com/amazonaws/aws-java-sdk-elasticloadbalancing/1.9.14/aws-java-sdk-elasticloadbalancing-1.9.14.jar" />
+  </library>
+  <library name="Maven: com.fasterxml.jackson.core:jackson-databind:2.3.2">
+    <archive path="/Users/emad7105/.m2/repository/com/fasterxml/jackson/core/jackson-databind/2.3.2/jackson-databind-2.3.2.jar" />
+  </library>
+  <library name="Maven: com.amazonaws:aws-java-sdk-directconnect:1.9.14">
+    <archive path="/Users/emad7105/.m2/repository/com/amazonaws/aws-java-sdk-directconnect/1.9.14/aws-java-sdk-directconnect-1.9.14.jar" />
+  </library>
+  <library name="Maven: com.amazonaws:aws-java-sdk-cognitoidentity:1.9.14">
+    <archive path="/Users/emad7105/.m2/repository/com/amazonaws/aws-java-sdk-cognitoidentity/1.9.14/aws-java-sdk-cognitoidentity-1.9.14.jar" />
+  </library>
+  <library name="Maven: com.amazonaws:aws-java-sdk-dynamodb:1.9.14">
+    <archive path="/Users/emad7105/.m2/repository/com/amazonaws/aws-java-sdk-dynamodb/1.9.14/aws-java-sdk-dynamodb-1.9.14.jar" />
+  </library>
+  <library name="Maven: com.fasterxml.jackson.core:jackson-core:2.3.2">
+    <archive path="/Users/emad7105/.m2/repository/com/fasterxml/jackson/core/jackson-core/2.3.2/jackson-core-2.3.2.jar" />
+  </library>
+  <library name="Maven: com.amazonaws:aws-java-sdk-sqs:1.9.16">
+    <archive path="/Users/emad7105/.m2/repository/com/amazonaws/aws-java-sdk-sqs/1.9.16/aws-java-sdk-sqs-1.9.16.jar" />
+  </library>
+  <library name="Maven: com.amazonaws:aws-java-sdk-importexport:1.9.14">
+    <archive path="/Users/emad7105/.m2/repository/com/amazonaws/aws-java-sdk-importexport/1.9.14/aws-java-sdk-importexport-1.9.14.jar" />
+  </library>
+  <library name="Maven: com.amazonaws:aws-java-sdk-ec2:1.9.16">
+    <archive path="/Users/emad7105/.m2/repository/com/amazonaws/aws-java-sdk-ec2/1.9.16/aws-java-sdk-ec2-1.9.16.jar" />
+  </library>
+  <library name="Maven: com.sun.jersey:jersey-server:1.8">
+    <archive path="/Users/emad7105/.m2/repository/com/sun/jersey/jersey-server/1.8/jersey-server-1.8.jar" />
+  </library>
+  <library name="Maven: commons-el:commons-el:1.0">
+    <archive path="/Users/emad7105/.m2/repository/commons-el/commons-el/1.0/commons-el-1.0.jar" />
+  </library>
+  <library name="Maven: org.apache.hadoop:hadoop-core:1.2.1">
+    <archive path="/Users/emad7105/.m2/repository/org/apache/hadoop/hadoop-core/1.2.1/hadoop-core-1.2.1.jar" />
+  </library>
+  <library name="Maven: com.amazonaws:aws-java-sdk-importexport:1.9.16">
+    <archive path="/Users/emad7105/.m2/repository/com/amazonaws/aws-java-sdk-importexport/1.9.16/aws-java-sdk-importexport-1.9.16.jar" />
+  </library>
+  <library name="Maven: com.amazonaws:aws-java-sdk-swf-libraries:1.9.16">
+    <archive path="/Users/emad7105/.m2/repository/com/amazonaws/aws-java-sdk-swf-libraries/1.9.16/aws-java-sdk-swf-libraries-1.9.16.jar" />
+  </library>
+  <library name="Maven: com.sun.jersey:jersey-json:1.8">
+    <archive path="/Users/emad7105/.m2/repository/com/sun/jersey/jersey-json/1.8/jersey-json-1.8.jar" />
+  </library>
+  <library name="Maven: com.amazonaws:aws-java-sdk-elasticache:1.9.16">
+    <archive path="/Users/emad7105/.m2/repository/com/amazonaws/aws-java-sdk-elasticache/1.9.16/aws-java-sdk-elasticache-1.9.16.jar" />
+  </library>
+  <library name="Maven: com.fasterxml.jackson.core:jackson-annotations:2.3.0">
+    <archive path="/Users/emad7105/.m2/repository/com/fasterxml/jackson/core/jackson-annotations/2.3.0/jackson-annotations-2.3.0.jar" />
+  </library>
+  <library name="Maven: commons-digester:commons-digester:1.8">
+    <archive path="/Users/emad7105/.m2/repository/commons-digester/commons-digester/1.8/commons-digester-1.8.jar" />
+  </library>
+  <library name="Maven: org.apache.commons:commons-math:2.1">
+    <archive path="/Users/emad7105/.m2/repository/org/apache/commons/commons-math/2.1/commons-math-2.1.jar" />
+  </library>
+  <library name="Maven: commons-beanutils:commons-beanutils:1.7.0">
+    <archive path="/Users/emad7105/.m2/repository/commons-beanutils/commons-beanutils/1.7.0/commons-beanutils-1.7.0.jar" />
+  </library>
+  <library name="Maven: com.amazonaws:aws-java-sdk-codedeploy:1.9.14">
+    <archive path="/Users/emad7105/.m2/repository/com/amazonaws/aws-java-sdk-codedeploy/1.9.14/aws-java-sdk-codedeploy-1.9.14.jar" />
+  </library>
+  <library name="Maven: com.amazonaws:aws-java-sdk-rds:1.9.14">
+    <archive path="/Users/emad7105/.m2/repository/com/amazonaws/aws-java-sdk-rds/1.9.14/aws-java-sdk-rds-1.9.14.jar" />
+  </library>
+  <library name="Maven: com.amazonaws:aws-java-sdk:1.9.14">
+    <archive path="/Users/emad7105/.m2/repository/com/amazonaws/aws-java-sdk/1.9.14/aws-java-sdk-1.9.14.jar" />
+  </library>
+  <library name="Maven: javax.activation:activation:1.1">
+    <archive path="/Users/emad7105/.m2/repository/javax/activation/activation/1.1/activation-1.1.jar" />
+  </library>
+  <library name="Maven: org.apache.httpcomponents:httpclient:4.3.4">
+    <archive path="/Users/emad7105/.m2/repository/org/apache/httpcomponents/httpclient/4.3.4/httpclient-4.3.4.jar" />
+  </library>
+  <library name="Maven: com.amazonaws:aws-java-sdk-cloudsearch:1.9.14">
+    <archive path="/Users/emad7105/.m2/repository/com/amazonaws/aws-java-sdk-cloudsearch/1.9.14/aws-java-sdk-cloudsearch-1.9.14.jar" />
+  </library>
+  <library name="Maven: com.amazonaws:aws-java-sdk-elastictranscoder:1.9.14">
+    <archive path="/Users/emad7105/.m2/repository/com/amazonaws/aws-java-sdk-elastictranscoder/1.9.14/aws-java-sdk-elastictranscoder-1.9.14.jar" />
+  </library>
+  <library name="Maven: com.amazonaws:aws-java-sdk-autoscaling:1.9.14">
+    <archive path="/Users/emad7105/.m2/repository/com/amazonaws/aws-java-sdk-autoscaling/1.9.14/aws-java-sdk-autoscaling-1.9.14.jar" />
+  </library>
+  <library name="Maven: com.amazonaws:aws-java-sdk-cloudsearch:1.9.16">
+    <archive path="/Users/emad7105/.m2/repository/com/amazonaws/aws-java-sdk-cloudsearch/1.9.16/aws-java-sdk-cloudsearch-1.9.16.jar" />
+  </library>
+  <library name="Maven: com.amazonaws:aws-java-sdk-elastictranscoder:1.9.16">
+    <archive path="/Users/emad7105/.m2/repository/com/amazonaws/aws-java-sdk-elastictranscoder/1.9.16/aws-java-sdk-elastictranscoder-1.9.16.jar" />
+  </library>
+  <library name="Maven: com.amazonaws:aws-java-sdk-kinesis:1.9.14">
+    <archive path="/Users/emad7105/.m2/repository/com/amazonaws/aws-java-sdk-kinesis/1.9.14/aws-java-sdk-kinesis-1.9.14.jar" />
+  </library>
+  <library name="Maven: org.mortbay.jetty:jetty-util:6.1.26">
+    <archive path="/Users/emad7105/.m2/repository/org/mortbay/jetty/jetty-util/6.1.26/jetty-util-6.1.26.jar" />
+  </library>
+  <library name="Maven: com.amazonaws:aws-java-sdk-logs:1.9.14">
+    <archive path="/Users/emad7105/.m2/repository/com/amazonaws/aws-java-sdk-logs/1.9.14/aws-java-sdk-logs-1.9.14.jar" />
+  </library>
+  <library name="Maven: stax:stax-api:1.0.1">
+    <archive path="/Users/emad7105/.m2/repository/stax/stax-api/1.0.1/stax-api-1.0.1.jar" />
+  </library>
+  <library name="Maven: com.amazonaws:aws-java-sdk-logs:1.9.16">
+    <archive path="/Users/emad7105/.m2/repository/com/amazonaws/aws-java-sdk-logs/1.9.16/aws-java-sdk-logs-1.9.16.jar" />
+  </library>
+  <library name="Maven: org.mortbay.jetty:jetty:6.1.26">
+    <archive path="/Users/emad7105/.m2/repository/org/mortbay/jetty/jetty/6.1.26/jetty-6.1.26.jar" />
+  </library>
+  <library name="Maven: com.amazonaws:aws-java-sdk-config:1.9.16">
+    <archive path="/Users/emad7105/.m2/repository/com/amazonaws/aws-java-sdk-config/1.9.16/aws-java-sdk-config-1.9.16.jar" />
+  </library>
+  <library name="Maven: com.amazonaws:aws-java-sdk-ses:1.9.14">
+    <archive path="/Users/emad7105/.m2/repository/com/amazonaws/aws-java-sdk-ses/1.9.14/aws-java-sdk-ses-1.9.14.jar" />
+  </library>
+  <library name="Maven: com.amazonaws:aws-java-sdk-route53:1.9.16">
+    <archive path="/Users/emad7105/.m2/repository/com/amazonaws/aws-java-sdk-route53/1.9.16/aws-java-sdk-route53-1.9.16.jar" />
+  </library>
+  <library name="Maven: com.amazonaws:aws-java-sdk-sns:1.9.14">
+    <archive path="/Users/emad7105/.m2/repository/com/amazonaws/aws-java-sdk-sns/1.9.14/aws-java-sdk-sns-1.9.14.jar" />
+  </library>
+  <library name="Maven: org.codehaus.jackson:jackson-mapper-asl:1.8.8">
+    <archive path="/Users/emad7105/.m2/repository/org/codehaus/jackson/jackson-mapper-asl/1.8.8/jackson-mapper-asl-1.8.8.jar" />
+  </library>
+  <library name="Maven: com.amazonaws:aws-java-sdk-opsworks:1.9.16">
+    <archive path="/Users/emad7105/.m2/repository/com/amazonaws/aws-java-sdk-opsworks/1.9.16/aws-java-sdk-opsworks-1.9.16.jar" />
+  </library>
+  <library name="Maven: com.amazonaws:aws-java-sdk-cloudformation:1.9.14">
+    <archive path="/Users/emad7105/.m2/repository/com/amazonaws/aws-java-sdk-cloudformation/1.9.14/aws-java-sdk-cloudformation-1.9.14.jar" />
+  </library>
+  <library name="Maven: tomcat:jasper-compiler:5.5.12">
+    <archive path="/Users/emad7105/.m2/repository/tomcat/jasper-compiler/5.5.12/jasper-compiler-5.5.12.jar" />
+  </library>
+  <library name="Maven: com.amazonaws:aws-java-sdk-cloudwatchmetrics:1.9.16">
+    <archive path="/Users/emad7105/.m2/repository/com/amazonaws/aws-java-sdk-cloudwatchmetrics/1.9.16/aws-java-sdk-cloudwatchmetrics-1.9.16.jar" />
+  </library>
+  <library name="Maven: commons-logging:commons-logging:1.0.3">
+    <archive path="/Users/emad7105/.m2/repository/commons-logging/commons-logging/1.0.3/commons-logging-1.0.3.jar" />
+  </library>
+  <library name="Maven: com.amazonaws:aws-java-sdk-ecs:1.9.16">
+    <archive path="/Users/emad7105/.m2/repository/com/amazonaws/aws-java-sdk-ecs/1.9.16/aws-java-sdk-ecs-1.9.16.jar" />
+  </library>
+  <library name="Maven: org.apache.httpcomponents:httpcore:4.3.2">
+    <archive path="/Users/emad7105/.m2/repository/org/apache/httpcomponents/httpcore/4.3.2/httpcore-4.3.2.jar" />
+  </library>
+  <library name="Maven: com.amazonaws:aws-java-sdk-simpleworkflow:1.9.16">
+    <archive path="/Users/emad7105/.m2/repository/com/amazonaws/aws-java-sdk-simpleworkflow/1.9.16/aws-java-sdk-simpleworkflow-1.9.16.jar" />
+  </library>
+  <library name="Maven: commons-net:commons-net:1.4.1">
+    <archive path="/Users/emad7105/.m2/repository/commons-net/commons-net/1.4.1/commons-net-1.4.1.jar" />
+  </library>
+  <library name="Maven: com.amazonaws:aws-java-sdk-redshift:1.9.16">
+    <archive path="/Users/emad7105/.m2/repository/com/amazonaws/aws-java-sdk-redshift/1.9.16/aws-java-sdk-redshift-1.9.16.jar" />
+  </library>
+  <library name="Maven: commons-io:commons-io:2.1">
+    <archive path="/Users/emad7105/.m2/repository/commons-io/commons-io/2.1/commons-io-2.1.jar" />
+  </library>
+  <library name="Maven: com.amazonaws:aws-java-sdk-glacier:1.9.14">
+    <archive path="/Users/emad7105/.m2/repository/com/amazonaws/aws-java-sdk-glacier/1.9.14/aws-java-sdk-glacier-1.9.14.jar" />
+  </library>
+  <library name="Maven: com.amazonaws:aws-java-sdk-cloudtrail:1.9.16">
+    <archive path="/Users/emad7105/.m2/repository/com/amazonaws/aws-java-sdk-cloudtrail/1.9.16/aws-java-sdk-cloudtrail-1.9.16.jar" />
+  </library>
+  <library name="Maven: com.amazonaws:aws-java-sdk-route53:1.9.14">
+    <archive path="/Users/emad7105/.m2/repository/com/amazonaws/aws-java-sdk-route53/1.9.14/aws-java-sdk-route53-1.9.14.jar" />
+  </library>
+  <library name="Maven: org.codehaus.jackson:jackson-jaxrs:1.7.1">
+    <archive path="/Users/emad7105/.m2/repository/org/codehaus/jackson/jackson-jaxrs/1.7.1/jackson-jaxrs-1.7.1.jar" />
+  </library>
+  <library name="Maven: oro:oro:2.0.8">
+    <archive path="/Users/emad7105/.m2/repository/oro/oro/2.0.8/oro-2.0.8.jar" />
+  </library>
+  <library name="Maven: org.codehaus.jettison:jettison:1.1">
+    <archive path="/Users/emad7105/.m2/repository/org/codehaus/jettison/jettison/1.1/jettison-1.1.jar" />
+  </library>
+  <library name="Maven: com.amazonaws:aws-java-sdk-storagegateway:1.9.16">
+    <archive path="/Users/emad7105/.m2/repository/com/amazonaws/aws-java-sdk-storagegateway/1.9.16/aws-java-sdk-storagegateway-1.9.16.jar" />
+  </library>
+  <library name="Maven: com.amazonaws:aws-java-sdk-cloudtrail:1.9.14">
+    <archive path="/Users/emad7105/.m2/repository/com/amazonaws/aws-java-sdk-cloudtrail/1.9.14/aws-java-sdk-cloudtrail-1.9.14.jar" />
+  </library>
+  <library name="Maven: com.amazonaws:aws-java-sdk-cognitosync:1.9.14">
+    <archive path="/Users/emad7105/.m2/repository/com/amazonaws/aws-java-sdk-cognitosync/1.9.14/aws-java-sdk-cognitosync-1.9.14.jar" />
+  </library>
+  <library name="Maven: com.amazonaws:aws-java-sdk-datapipeline:1.9.16">
+    <archive path="/Users/emad7105/.m2/repository/com/amazonaws/aws-java-sdk-datapipeline/1.9.16/aws-java-sdk-datapipeline-1.9.16.jar" />
+  </library>
+  <library name="Maven: com.amazonaws:aws-java-sdk-simpleworkflow:1.9.14">
+    <archive path="/Users/emad7105/.m2/repository/com/amazonaws/aws-java-sdk-simpleworkflow/1.9.14/aws-java-sdk-simpleworkflow-1.9.14.jar" />
+  </library>
+  <library name="Maven: com.amazonaws:aws-java-sdk-elasticbeanstalk:1.9.14">
+    <archive path="/Users/emad7105/.m2/repository/com/amazonaws/aws-java-sdk-elasticbeanstalk/1.9.14/aws-java-sdk-elasticbeanstalk-1.9.14.jar" />
+  </library>
+  <library name="Maven: org.eclipse.jdt:core:3.1.1">
+    <archive path="/Users/emad7105/.m2/repository/org/eclipse/jdt/core/3.1.1/core-3.1.1.jar" />
+  </library>
+  <library name="Maven: com.amazonaws:aws-java-sdk-codedeploy:1.9.16">
+    <archive path="/Users/emad7105/.m2/repository/com/amazonaws/aws-java-sdk-codedeploy/1.9.16/aws-java-sdk-codedeploy-1.9.16.jar" />
+  </library>
+  <library name="Maven: com.amazonaws:aws-java-sdk-cognitoidentity:1.9.16">
+    <archive path="/Users/emad7105/.m2/repository/com/amazonaws/aws-java-sdk-cognitoidentity/1.9.16/aws-java-sdk-cognitoidentity-1.9.16.jar" />
+  </library>
+  <library name="Maven: org.codehaus.jackson:jackson-core-asl:1.7.1">
+    <archive path="/Users/emad7105/.m2/repository/org/codehaus/jackson/jackson-core-asl/1.7.1/jackson-core-asl-1.7.1.jar" />
+  </library>
+  <library name="Maven: com.amazonaws:aws-java-sdk-glacier:1.9.16">
+    <archive path="/Users/emad7105/.m2/repository/com/amazonaws/aws-java-sdk-glacier/1.9.16/aws-java-sdk-glacier-1.9.16.jar" />
+  </library>
+  <library name="Maven: javax.xml.bind:jaxb-api:2.2.2">
+    <archive path="/Users/emad7105/.m2/repository/javax/xml/bind/jaxb-api/2.2.2/jaxb-api-2.2.2.jar" />
+  </library>
+  <library name="Maven: com.amazonaws:aws-java-sdk-ecs:1.9.14">
+    <archive path="/Users/emad7105/.m2/repository/com/amazonaws/aws-java-sdk-ecs/1.9.14/aws-java-sdk-ecs-1.9.14.jar" />
+  </library>
+  <library name="Maven: com.amazonaws:aws-java-sdk-support:1.9.14">
+    <archive path="/Users/emad7105/.m2/repository/com/amazonaws/aws-java-sdk-support/1.9.14/aws-java-sdk-support-1.9.14.jar" />
+  </library>
+  <library name="Maven: org.hamcrest:hamcrest-core:1.3">
+    <archive path="/Users/emad7105/.m2/repository/org/hamcrest/hamcrest-core/1.3/hamcrest-core-1.3.jar" />
+  </library>
+  <library name="Maven: com.amazonaws:aws-java-sdk-opsworks:1.9.14">
+    <archive path="/Users/emad7105/.m2/repository/com/amazonaws/aws-java-sdk-opsworks/1.9.14/aws-java-sdk-opsworks-1.9.14.jar" />
+  </library>
+  <library name="Maven: com.amazonaws:aws-java-sdk-kinesis:1.9.16">
+    <archive path="/Users/emad7105/.m2/repository/com/amazonaws/aws-java-sdk-kinesis/1.9.16/aws-java-sdk-kinesis-1.9.16.jar" />
+  </library>
+  <library name="Maven: com.amazonaws:aws-java-sdk-dynamodb:1.9.16">
+    <archive path="/Users/emad7105/.m2/repository/com/amazonaws/aws-java-sdk-dynamodb/1.9.16/aws-java-sdk-dynamodb-1.9.16.jar" />
+  </library>
+  <library name="Maven: com.amazonaws:aws-java-sdk-lambda:1.9.14">
+    <archive path="/Users/emad7105/.m2/repository/com/amazonaws/aws-java-sdk-lambda/1.9.14/aws-java-sdk-lambda-1.9.14.jar" />
+  </library>
+  <library name="Maven: com.amazonaws:aws-java-sdk-elasticache:1.9.14">
+    <archive path="/Users/emad7105/.m2/repository/com/amazonaws/aws-java-sdk-elasticache/1.9.14/aws-java-sdk-elasticache-1.9.14.jar" />
+  </library>
+  <library name="Maven: com.amazonaws:aws-java-sdk-lambda:1.9.16">
+    <archive path="/Users/emad7105/.m2/repository/com/amazonaws/aws-java-sdk-lambda/1.9.16/aws-java-sdk-lambda-1.9.16.jar" />
+  </library>
+  <library name="Maven: tomcat:jasper-runtime:5.5.12">
+    <archive path="/Users/emad7105/.m2/repository/tomcat/jasper-runtime/5.5.12/jasper-runtime-5.5.12.jar" />
+  </library>
+  <library name="Maven: com.amazonaws:aws-java-sdk-cloudfront:1.9.14">
+    <archive path="/Users/emad7105/.m2/repository/com/amazonaws/aws-java-sdk-cloudfront/1.9.14/aws-java-sdk-cloudfront-1.9.14.jar" />
+  </library>
+  <library name="Maven: com.amazonaws:aws-java-sdk-s3:1.9.14">
+    <archive path="/Users/emad7105/.m2/repository/com/amazonaws/aws-java-sdk-s3/1.9.14/aws-java-sdk-s3-1.9.14.jar" />
+  </library>
+  <library name="Maven: com.amazonaws:aws-java-sdk-ses:1.9.16">
+    <archive path="/Users/emad7105/.m2/repository/com/amazonaws/aws-java-sdk-ses/1.9.16/aws-java-sdk-ses-1.9.16.jar" />
+  </library>
+  <library name="Maven: commons-cli:commons-cli:1.2">
+    <archive path="/Users/emad7105/.m2/repository/commons-cli/commons-cli/1.2/commons-cli-1.2.jar" />
+  </library>
+  <library name="Maven: com.amazonaws:aws-java-sdk-emr:1.9.14">
+    <archive path="/Users/emad7105/.m2/repository/com/amazonaws/aws-java-sdk-emr/1.9.14/aws-java-sdk-emr-1.9.14.jar" />
+  </library>
+  <library name="Maven: com.amazonaws:aws-java-sdk-cloudwatch:1.9.14">
+    <archive path="/Users/emad7105/.m2/repository/com/amazonaws/aws-java-sdk-cloudwatch/1.9.14/aws-java-sdk-cloudwatch-1.9.14.jar" />
+  </library>
+  <library name="Maven: com.amazonaws:aws-java-sdk-emr:1.9.16">
+    <archive path="/Users/emad7105/.m2/repository/com/amazonaws/aws-java-sdk-emr/1.9.16/aws-java-sdk-emr-1.9.16.jar" />
+  </library>
+  <library name="Maven: org.codehaus.jackson:jackson-xc:1.7.1">
+    <archive path="/Users/emad7105/.m2/repository/org/codehaus/jackson/jackson-xc/1.7.1/jackson-xc-1.7.1.jar" />
+  </library>
+  <library name="Maven: com.amazonaws:aws-java-sdk-sqs:1.9.14">
+    <archive path="/Users/emad7105/.m2/repository/com/amazonaws/aws-java-sdk-sqs/1.9.14/aws-java-sdk-sqs-1.9.14.jar" />
+  </library>
+  <library name="Maven: com.amazonaws:aws-java-sdk-elasticloadbalancing:1.9.16">
+    <archive path="/Users/emad7105/.m2/repository/com/amazonaws/aws-java-sdk-elasticloadbalancing/1.9.16/aws-java-sdk-elasticloadbalancing-1.9.16.jar" />
+  </library>
+  <library name="Maven: com.amazonaws:aws-java-sdk-s3:1.9.16">
+    <archive path="/Users/emad7105/.m2/repository/com/amazonaws/aws-java-sdk-s3/1.9.16/aws-java-sdk-s3-1.9.16.jar" />
+  </library>
+  <library name="Maven: com.amazonaws:aws-java-sdk-datapipeline:1.9.14">
+    <archive path="/Users/emad7105/.m2/repository/com/amazonaws/aws-java-sdk-datapipeline/1.9.14/aws-java-sdk-datapipeline-1.9.14.jar" />
+  </library>
+  <library name="Maven: hsqldb:hsqldb:1.8.0.10">
+    <archive path="/Users/emad7105/.m2/repository/hsqldb/hsqldb/1.8.0.10/hsqldb-1.8.0.10.jar" />
+  </library>
+  <library name="Maven: com.amazonaws:aws-java-sdk-simpledb:1.9.14">
+    <archive path="/Users/emad7105/.m2/repository/com/amazonaws/aws-java-sdk-simpledb/1.9.14/aws-java-sdk-simpledb-1.9.14.jar" />
+  </library>
+  <library name="Maven: com.amazonaws:aws-java-sdk-cloudwatchmetrics:1.9.14">
+    <archive path="/Users/emad7105/.m2/repository/com/amazonaws/aws-java-sdk-cloudwatchmetrics/1.9.14/aws-java-sdk-cloudwatchmetrics-1.9.14.jar" />
+  </library>
+  <library name="Maven: junit:junit:3.8.1">
+    <archive path="/Users/emad7105/.m2/repository/junit/junit/3.8.1/junit-3.8.1.jar" />
+  </library>
+  <library name="binary">
+    <archive path="/Users/emad7105/Library/Caches/IntelliJIdea13/extLibs/http_ats.oka.nu_titaniumcore_js_tools_binary.js" />
+  </library>
+  <library name="grails-2.2.4">
+    <archive path="/usr/local/grails/grails-2.2.4/dist/grails-2.2.4.jar" />
+    <archive path="/usr/local/grails/grails-2.2.4/dist/grails-bootstrap-2.2.4.jar" />
+    <archive path="/usr/local/grails/grails-2.2.4/dist/grails-core-2.2.4.jar" />
+    <archive path="/usr/local/grails/grails-2.2.4/dist/grails-crud-2.2.4.jar" />
+    <archive path="/usr/local/grails/grails-2.2.4/dist/grails-docs-2.2.4.jar" />
+    <archive path="/usr/local/grails/grails-2.2.4/dist/grails-hibernate-2.2.4.jar" />
+    <archive path="/usr/local/grails/grails-2.2.4/dist/grails-logging-2.2.4.jar" />
+    <archive path="/usr/local/grails/grails-2.2.4/dist/grails-plugin-async-2.2.4.jar" />
+    <archive path="/usr/local/grails/grails-2.2.4/dist/grails-plugin-codecs-2.2.4.jar" />
+    <archive path="/usr/local/grails/grails-2.2.4/dist/grails-plugin-controllers-2.2.4.jar" />
+    <archive path="/usr/local/grails/grails-2.2.4/dist/grails-plugin-converters-2.2.4.jar" />
+    <archive path="/usr/local/grails/grails-2.2.4/dist/grails-plugin-datasource-2.2.4.jar" />
+    <archive path="/usr/local/grails/grails-2.2.4/dist/grails-plugin-domain-class-2.2.4.jar" />
+    <archive path="/usr/local/grails/grails-2.2.4/dist/grails-plugin-filters-2.2.4.jar" />
+    <archive path="/usr/local/grails/grails-2.2.4/dist/grails-plugin-gsp-2.2.4.jar" />
+    <archive path="/usr/local/grails/grails-2.2.4/dist/grails-plugin-i18n-2.2.4.jar" />
+    <archive path="/usr/local/grails/grails-2.2.4/dist/grails-plugin-log4j-2.2.4.jar" />
+    <archive path="/usr/local/grails/grails-2.2.4/dist/grails-plugin-mimetypes-2.2.4.jar" />
+    <archive path="/usr/local/grails/grails-2.2.4/dist/grails-plugin-scaffolding-2.2.4.jar" />
+    <archive path="/usr/local/grails/grails-2.2.4/dist/grails-plugin-services-2.2.4.jar" />
+    <archive path="/usr/local/grails/grails-2.2.4/dist/grails-plugin-servlets-2.2.4.jar" />
+    <archive path="/usr/local/grails/grails-2.2.4/dist/grails-plugin-testing-2.2.4.jar" />
+    <archive path="/usr/local/grails/grails-2.2.4/dist/grails-plugin-tomcat-2.2.4.jar" />
+    <archive path="/usr/local/grails/grails-2.2.4/dist/grails-plugin-url-mappings-2.2.4.jar" />
+    <archive path="/usr/local/grails/grails-2.2.4/dist/grails-plugin-validation-2.2.4.jar" />
+    <archive path="/usr/local/grails/grails-2.2.4/dist/grails-resources-2.2.4.jar" />
+    <archive path="/usr/local/grails/grails-2.2.4/dist/grails-scripts-2.2.4.jar" />
+    <archive path="/usr/local/grails/grails-2.2.4/dist/grails-spring-2.2.4.jar" />
+    <archive path="/usr/local/grails/grails-2.2.4/dist/grails-test-2.2.4.jar" />
+    <archive path="/usr/local/grails/grails-2.2.4/dist/grails-test-suite-base-2.2.4.jar" />
+    <archive path="/usr/local/grails/grails-2.2.4/dist/grails-web-2.2.4.jar" />
+    <archive path="/usr/local/grails/grails-2.2.4/dist/grails-webflow-2.2.4.jar" />
+    <archive path="/usr/local/grails/grails-2.2.4/dist/grails-wrapper-support-2.2.4.jar" />
+    <archive path="/usr/local/grails/grails-2.2.4/lib/antlr/antlr/jars/antlr-2.7.7.jar" />
+    <archive path="/usr/local/grails/grails-2.2.4/lib/aopalliance/aopalliance/jars/aopalliance-1.0.jar" />
+    <archive path="/usr/local/grails/grails-2.2.4/lib/asm/asm/jars/asm-3.1.jar" />
+    <archive path="/usr/local/grails/grails-2.2.4/lib/bouncycastle/bcmail-jdk14/jars/bcmail-jdk14-138.jar" />
+    <archive path="/usr/local/grails/grails-2.2.4/lib/cglib/cglib/jars/cglib-2.2.jar" />
+    <archive path="/usr/local/grails/grails-2.2.4/lib/com.google.protobuf/protobuf-java/jars/protobuf-java-2.4.1.jar" />
+    <archive path="/usr/local/grails/grails-2.2.4/lib/com.googlecode.concurrentlinkedhashmap/concurrentlinkedhashmap-lru/jars/concurrentlinkedhashmap-lru-1.3.1.jar" />
+    <archive path="/usr/local/grails/grails-2.2.4/lib/com.googlecode.json-simple/json-simple/jars/json-simple-1.1.jar" />
+    <archive path="/usr/local/grails/grails-2.2.4/lib/com.h2database/h2/jars/h2-1.3.164.jar" />
+    <archive path="/usr/local/grails/grails-2.2.4/lib/com.lowagie/itext/jars/itext-2.0.8.jar" />
+    <archive path="/usr/local/grails/grails-2.2.4/lib/commons-beanutils/commons-beanutils/jars/commons-beanutils-1.8.3.jar" />
+    <archive path="/usr/local/grails/grails-2.2.4/lib/commons-cli/commons-cli/jars/commons-cli-1.2.jar" />
+    <archive path="/usr/local/grails/grails-2.2.4/lib/commons-codec/commons-codec/jars/commons-codec-1.5.jar" />
+    <archive path="/usr/local/grails/grails-2.2.4/lib/commons-collections/commons-collections/jars/commons-collections-3.2.1.jar" />
+    <archive path="/usr/local/grails/grails-2.2.4/lib/commons-dbcp/commons-dbcp/jars/commons-dbcp-1.4.jar" />
+    <archive path="/usr/local/grails/grails-2.2.4/lib/commons-el/commons-el/jars/commons-el-1.0.jar" />
+    <archive path="/usr/local/grails/grails-2.2.4/lib/commons-fileupload/commons-fileupload/jars/commons-fileupload-1.2.2.jar" />
+    <archive path="/usr/local/grails/grails-2.2.4/lib/commons-io/commons-io/jars/commons-io-2.1.jar" />
+    <archive path="/usr/local/grails/grails-2.2.4/lib/commons-lang/commons-lang/jars/commons-lang-2.6.jar" />
+    <archive path="/usr/local/grails/grails-2.2.4/lib/commons-pool/commons-pool/jars/commons-pool-1.5.6.jar" />
+    <archive path="/usr/local/grails/grails-2.2.4/lib/commons-validator/commons-validator/jars/commons-validator-1.3.1.jar" />
+    <archive path="/usr/local/grails/grails-2.2.4/lib/dom4j/dom4j/jars/dom4j-1.6.1.jar" />
+    <archive path="/usr/local/grails/grails-2.2.4/lib/hsqldb/hsqldb/jars/hsqldb-1.8.0.10.jar" />
+    <archive path="/usr/local/grails/grails-2.2.4/lib/javax.persistence/persistence-api/jars/persistence-api-1.0.jar" />
+    <archive path="/usr/local/grails/grails-2.2.4/lib/javax.servlet/javax.servlet-api/jars/javax.servlet-api-3.0.1.jar" />
+    <archive path="/usr/local/grails/grails-2.2.4/lib/javax.servlet/jsp-api/jars/jsp-api-2.0.jar" />
+    <archive path="/usr/local/grails/grails-2.2.4/lib/javax.servlet/jstl/jars/jstl-1.1.2.jar" />
+    <archive path="/usr/local/grails/grails-2.2.4/lib/javax.servlet/servlet-api/jars/servlet-api-2.4.jar" />
+    <archive path="/usr/local/grails/grails-2.2.4/lib/javax.servlet.jsp/jsp-api/jars/jsp-api-2.1.jar" />
+    <archive path="/usr/local/grails/grails-2.2.4/lib/javax.transaction/jta/jars/jta-1.1.jar" />
+    <archive path="/usr/local/grails/grails-2.2.4/lib/javax.validation/validation-api/jars/validation-api-1.0.0.GA.jar" />
+    <archive path="/usr/local/grails/grails-2.2.4/lib/jline/jline/jars/jline-1.0.jar" />
+    <archive path="/usr/local/grails/grails-2.2.4/lib/junit/junit/jars/junit-4.10.jar" />
+    <archive path="/usr/local/grails/grails-2.2.4/lib/log4j/log4j/jars/log4j-1.2.16.jar" />
+    <archive path="/usr/local/grails/grails-2.2.4/lib/net.java.dev.jna/jna/jars/jna-3.2.3.jar" />
+    <archive path="/usr/local/grails/grails-2.2.4/lib/net.sf.ehcache/ehcache-core/jars/ehcache-core-2.4.6.jar" />
+    <archive path="/usr/local/grails/grails-2.2.4/lib/ognl/ognl/jars/ognl-2.7.3.jar" />
+    <archive path="/usr/local/grails/grails-2.2.4/lib/opensymphony/sitemesh/jars/sitemesh-2.4.jar" />
+    <archive path="/usr/local/grails/grails-2.2.4/lib/org.apache.ant/ant/jars/ant-1.8.2.jar" />
+    <archive path="/usr/local/grails/grails-2.2.4/lib/org.apache.ant/ant-junit/jars/ant-junit-1.8.2.jar" />
+    <archive path="/usr/local/grails/grails-2.2.4/lib/org.apache.ant/ant-launcher/jars/ant-launcher-1.8.2.jar" />
+    <archive path="/usr/local/grails/grails-2.2.4/lib/org.apache.ant/ant-trax/jars/ant-trax-1.7.1.jar" />
+    <archive path="/usr/local/grails/grails-2.2.4/lib/org.apache.ivy/ivy/jars/ivy-2.2.0.jar" />
+    <archive path="/usr/local/grails/grails-2.2.4/lib/org.apache.tomcat/tomcat-annotations-api/jars/tomcat-annotations-api-7.0.39.jar" />
+    <archive path="/usr/local/grails/grails-2.2.4/lib/org.apache.tomcat/tomcat-api/jars/tomcat-api-7.0.39.jar" />
+    <archive path="/usr/local/grails/grails-2.2.4/lib/org.apache.tomcat/tomcat-catalina/jars/tomcat-catalina-7.0.39.jar" />
+    <archive path="/usr/local/grails/grails-2.2.4/lib/org.apache.tomcat/tomcat-catalina-ant/jars/tomcat-catalina-ant-7.0.39.jar" />
+    <archive path="/usr/local/grails/grails-2.2.4/lib/org.apache.tomcat/tomcat-coyote/jars/tomcat-coyote-7.0.39.jar" />
+    <archive path="/usr/local/grails/grails-2.2.4/lib/org.apache.tomcat/tomcat-juli/jars/tomcat-juli-7.0.39.jar" />
+    <archive path="/usr/local/grails/grails-2.2.4/lib/org.apache.tomcat/tomcat-servlet-api/jars/tomcat-servlet-api-7.0.39.jar" />
+    <archive path="/usr/local/grails/grails-2.2.4/lib/org.apache.tomcat/tomcat-util/jars/tomcat-util-7.0.39.jar" />
+    <archive path="/usr/local/grails/grails-2.2.4/lib/org.apache.tomcat.embed/tomcat-embed-core/jars/tomcat-embed-core-7.0.39.jar" />
+    <archive path="/usr/local/grails/grails-2.2.4/lib/org.apache.tomcat.embed/tomcat-embed-jasper/jars/tomcat-embed-jasper-7.0.39.jar" />
+    <archive path="/usr/local/grails/grails-2.2.4/lib/org.apache.tomcat.embed/tomcat-embed-logging-juli/jars/tomcat-embed-logging-juli-7.0.39.jar" />
+    <archive path="/usr/local/grails/grails-2.2.4/lib/org.apache.tomcat.embed/tomcat-embed-logging-log4j/jars/tomcat-embed-logging-log4j-7.0.39.jar" />
+    <archive path="/usr/local/grails/grails-2.2.4/lib/org.aspectj/aspectjrt/jars/aspectjrt-1.6.10.jar" />
+    <archive path="/usr/local/grails/grails-2.2.4/lib/org.aspectj/aspectjweaver/jars/aspectjweaver-1.6.10.jar" />
+    <archive path="/usr/local/grails/grails-2.2.4/lib/org.bouncycastle/bcpg-jdk15/jars/bcpg-jdk15-1.45.jar" />
+    <archive path="/usr/local/grails/grails-2.2.4/lib/org.bouncycastle/bcprov-jdk15/jars/bcprov-jdk15-1.45.jar" />
+    <archive path="/usr/local/grails/grails-2.2.4/lib/org.codehaus.gant/gant_groovy1.8/jars/gant_groovy1.8-1.9.6.jar" />
+    <archive path="/usr/local/grails/grails-2.2.4/lib/org.codehaus.groovy/groovy-all/jars/groovy-all-2.0.8.jar" />
+    <archive path="/usr/local/grails/grails-2.2.4/lib/org.eclipse.jdt.core.compiler/ecj/jars/ecj-4.2.1.jar" />
+    <archive path="/usr/local/grails/grails-2.2.4/lib/org.fusesource.jansi/jansi/jars/jansi-1.2.1.jar" />
+    <archive path="/usr/local/grails/grails-2.2.4/lib/org.grails/grails-datastore-core/jars/grails-datastore-core-1.1.8.RELEASE.jar" />
+    <archive path="/usr/local/grails/grails-2.2.4/lib/org.grails/grails-datastore-gorm/jars/grails-datastore-gorm-1.1.8.RELEASE.jar" />
+    <archive path="/usr/local/grails/grails-2.2.4/lib/org.grails/grails-datastore-simple/jars/grails-datastore-simple-1.1.8.RELEASE.jar" />
+    <archive path="/usr/local/grails/grails-2.2.4/lib/org.grails/grails-gdoc-engine/jars/grails-gdoc-engine-1.0.1.jar" />
+    <archive path="/usr/local/grails/grails-2.2.4/lib/org.hamcrest/hamcrest-core/jars/hamcrest-core-1.1.jar" />
+    <archive path="/usr/local/grails/grails-2.2.4/lib/org.hibernate/hibernate-commons-annotations/jars/hibernate-commons-annotations-3.2.0.Final.jar" />
+    <archive path="/usr/local/grails/grails-2.2.4/lib/org.hibernate/hibernate-core/jars/hibernate-core-3.6.10.Final.jar" />
+    <archive path="/usr/local/grails/grails-2.2.4/lib/org.hibernate/hibernate-ehcache/jars/hibernate-ehcache-3.6.10.Final.jar" />
+    <archive path="/usr/local/grails/grails-2.2.4/lib/org.hibernate/hibernate-validator/jars/hibernate-validator-4.1.0.Final.jar" />
+    <archive path="/usr/local/grails/grails-2.2.4/lib/org.hibernate.javax.persistence/hibernate-jpa-2.0-api/jars/hibernate-jpa-2.0-api-1.0.1.Final.jar" />
+    <archive path="/usr/local/grails/grails-2.2.4/lib/org.javassist/javassist/jars/javassist-3.16.1-GA.jar" />
+    <archive path="/usr/local/grails/grails-2.2.4/lib/org.liquibase/liquibase-core/jars/liquibase-core-2.0.5.jar" />
+    <archive path="/usr/local/grails/grails-2.2.4/lib/org.slf4j/jcl-over-slf4j/jars/jcl-over-slf4j-1.6.2.jar" />
+    <archive path="/usr/local/grails/grails-2.2.4/lib/org.slf4j/jul-to-slf4j/jars/jul-to-slf4j-1.6.2.jar" />
+    <archive path="/usr/local/grails/grails-2.2.4/lib/org.slf4j/slf4j-api/jars/slf4j-api-1.6.2.jar" />
+    <archive path="/usr/local/grails/grails-2.2.4/lib/org.springframework/spring-aop/jars/spring-aop-3.1.4.RELEASE.jar" />
+    <archive path="/usr/local/grails/grails-2.2.4/lib/org.springframework/spring-asm/jars/spring-asm-3.1.4.RELEASE.jar" />
+    <archive path="/usr/local/grails/grails-2.2.4/lib/org.springframework/spring-aspects/jars/spring-aspects-3.1.4.RELEASE.jar" />
+    <archive path="/usr/local/grails/grails-2.2.4/lib/org.springframework/spring-beans/jars/spring-beans-3.1.4.RELEASE.jar" />
+    <archive path="/usr/local/grails/grails-2.2.4/lib/org.springframework/spring-context/jars/spring-context-3.1.4.RELEASE.jar" />
+    <archive path="/usr/local/grails/grails-2.2.4/lib/org.springframework/spring-context-support/jars/spring-context-support-3.1.4.RELEASE.jar" />
+    <archive path="/usr/local/grails/grails-2.2.4/lib/org.springframework/spring-core/jars/spring-core-3.1.4.RELEASE.jar" />
+    <archive path="/usr/local/grails/grails-2.2.4/lib/org.springframework/spring-expression/jars/spring-expression-3.1.4.RELEASE.jar" />
+    <archive path="/usr/local/grails/grails-2.2.4/lib/org.springframework/spring-jdbc/jars/spring-jdbc-3.1.4.RELEASE.jar" />
+    <archive path="/usr/local/grails/grails-2.2.4/lib/org.springframework/spring-jms/jars/spring-jms-3.1.4.RELEASE.jar" />
+    <archive path="/usr/local/grails/grails-2.2.4/lib/org.springframework/spring-orm/jars/spring-orm-3.1.4.RELEASE.jar" />
+    <archive path="/usr/local/grails/grails-2.2.4/lib/org.springframework/spring-test/jars/spring-test-3.1.4.RELEASE.jar" />
+    <archive path="/usr/local/grails/grails-2.2.4/lib/org.springframework/spring-tx/jars/spring-tx-3.1.4.RELEASE.jar" />
+    <archive path="/usr/local/grails/grails-2.2.4/lib/org.springframework/spring-web/jars/spring-web-3.1.4.RELEASE.jar" />
+    <archive path="/usr/local/grails/grails-2.2.4/lib/org.springframework/spring-webmvc/jars/spring-webmvc-3.1.4.RELEASE.jar" />
+    <archive path="/usr/local/grails/grails-2.2.4/lib/org.springframework.uaa/org.springframework.uaa.client/jars/org.springframework.uaa.client-1.0.1.RELEASE.jar" />
+    <archive path="/usr/local/grails/grails-2.2.4/lib/org.springframework.webflow/spring-binding/jars/spring-binding-2.0.8.RELEASE.jar" />
+    <archive path="/usr/local/grails/grails-2.2.4/lib/org.springframework.webflow/spring-js/jars/spring-js-2.0.8.RELEASE.jar" />
+    <archive path="/usr/local/grails/grails-2.2.4/lib/org.springframework.webflow/spring-webflow/jars/spring-webflow-2.0.8.RELEASE.jar" />
+    <archive path="/usr/local/grails/grails-2.2.4/lib/org.springsource.springloaded/springloaded-core/jars/springloaded-core-1.1.3.jar" />
+    <archive path="/usr/local/grails/grails-2.2.4/lib/org.xhtmlrenderer/core-renderer/jars/core-renderer-R8.jar" />
+    <archive path="/usr/local/grails/grails-2.2.4/lib/org.yaml/snakeyaml/jars/snakeyaml-1.8.jar" />
+    <archive path="/usr/local/grails/grails-2.2.4/lib/oro/oro/jars/oro-2.0.8.jar" />
+    <archive path="/usr/local/grails/grails-2.2.4/lib/taglibs/standard/jars/standard-1.1.2.jar" />
+    <archive path="/usr/local/grails/grails-2.2.4/lib/xalan/serializer/jars/serializer-2.7.1.jar" />
+    <archive path="/usr/local/grails/grails-2.2.4/lib/xpp3/xpp3_min/jars/xpp3_min-1.1.4c.jar" />
+  </library>
+  <library name="grails-2.3.5">
+    <archive path="/usr/local/grails/grails-2.3.5/dist/grails-aether-2.3.5.jar" />
+    <archive path="/usr/local/grails/grails-2.3.5/dist/grails-async-2.3.5.jar" />
+    <archive path="/usr/local/grails/grails-2.3.5/dist/grails-bootstrap-2.3.5.jar" />
+    <archive path="/usr/local/grails/grails-2.3.5/dist/grails-core-2.3.5.jar" />
+    <archive path="/usr/local/grails/grails-2.3.5/dist/grails-databinding-2.3.5.jar" />
+    <archive path="/usr/local/grails/grails-2.3.5/dist/grails-docs-2.3.5.jar" />
+    <archive path="/usr/local/grails/grails-2.3.5/dist/grails-logging-2.3.5.jar" />
+    <archive path="/usr/local/grails/grails-2.3.5/dist/grails-plugin-async-2.3.5.jar" />
+    <archive path="/usr/local/grails/grails-2.3.5/dist/grails-plugin-codecs-2.3.5.jar" />
+    <archive path="/usr/local/grails/grails-2.3.5/dist/grails-plugin-controllers-2.3.5.jar" />
+    <archive path="/usr/local/grails/grails-2.3.5/dist/grails-plugin-converters-2.3.5.jar" />
+    <archive path="/usr/local/grails/grails-2.3.5/dist/grails-plugin-databinding-2.3.5.jar" />
+    <archive path="/usr/local/grails/grails-2.3.5/dist/grails-plugin-datasource-2.3.5.jar" />
+    <archive path="/usr/local/grails/grails-2.3.5/dist/grails-plugin-domain-class-2.3.5.jar" />
+    <archive path="/usr/local/grails/grails-2.3.5/dist/grails-plugin-filters-2.3.5.jar" />
+    <archive path="/usr/local/grails/grails-2.3.5/dist/grails-plugin-gsp-2.3.5.jar" />
+    <archive path="/usr/local/grails/grails-2.3.5/dist/grails-plugin-i18n-2.3.5.jar" />
+    <archive path="/usr/local/grails/grails-2.3.5/dist/grails-plugin-log4j-2.3.5.jar" />
+    <archive path="/usr/local/grails/grails-2.3.5/dist/grails-plugin-mimetypes-2.3.5.jar" />
+    <archive path="/usr/local/grails/grails-2.3.5/dist/grails-plugin-rest-2.3.5.jar" />
+    <archive path="/usr/local/grails/grails-2.3.5/dist/grails-plugin-services-2.3.5.jar" />
+    <archive path="/usr/local/grails/grails-2.3.5/dist/grails-plugin-servlets-2.3.5.jar" />
+    <archive path="/usr/local/grails/grails-2.3.5/dist/grails-plugin-testing-2.3.5.jar" />
+    <archive path="/usr/local/grails/grails-2.3.5/dist/grails-plugin-url-mappings-2.3.5.jar" />
+    <archive path="/usr/local/grails/grails-2.3.5/dist/grails-plugin-validation-2.3.5.jar" />
+    <archive path="/usr/local/grails/grails-2.3.5/dist/grails-resources-2.3.5.jar" />
+    <archive path="/usr/local/grails/grails-2.3.5/dist/grails-scripts-2.3.5.jar" />
+    <archive path="/usr/local/grails/grails-2.3.5/dist/grails-spring-2.3.5.jar" />
+    <archive path="/usr/local/grails/grails-2.3.5/dist/grails-test-2.3.5.jar" />
+    <archive path="/usr/local/grails/grails-2.3.5/dist/grails-web-2.3.5.jar" />
+    <archive path="/usr/local/grails/grails-2.3.5/dist/grails-wrapper-2.3.5.jar" />
+    <archive path="/usr/local/grails/grails-2.3.5/dist/grails-wrapper-support-2.3.5.jar" />
+    <archive path="/usr/local/grails/grails-2.3.5/lib/aopalliance/aopalliance/jars/aopalliance-1.0.jar" />
+    <archive path="/usr/local/grails/grails-2.3.5/lib/asm/asm/jars/asm-3.3.1.jar" />
+    <archive path="/usr/local/grails/grails-2.3.5/lib/bouncycastle/bcmail-jdk14/jars/bcmail-jdk14-138.jar" />
+    <archive path="/usr/local/grails/grails-2.3.5/lib/bouncycastle/bcprov-jdk14/jars/bcprov-jdk14-138.jar" />
+    <archive path="/usr/local/grails/grails-2.3.5/lib/cglib/cglib/jars/cglib-2.2.2.jar" />
+    <archive path="/usr/local/grails/grails-2.3.5/lib/com.google.code.findbugs/jsr305/jars/jsr305-1.3.9.jar" />
+    <archive path="/usr/local/grails/grails-2.3.5/lib/com.google.code.gson/gson/jars/gson-2.2.4.jar" />
+    <archive path="/usr/local/grails/grails-2.3.5/lib/com.google.protobuf/protobuf-java/jars/protobuf-java-2.5.0.jar" />
+    <archive path="/usr/local/grails/grails-2.3.5/lib/com.googlecode.concurrentlinkedhashmap/concurrentlinkedhashmap-lru/jars/concurrentlinkedhashmap-lru-1.3.1.jar" />
+    <archive path="/usr/local/grails/grails-2.3.5/lib/com.googlecode.json-simple/json-simple/jars/json-simple-1.1.jar" />
+    <archive path="/usr/local/grails/grails-2.3.5/lib/com.h2database/h2/jars/h2-1.3.173.jar" />
+    <archive path="/usr/local/grails/grails-2.3.5/lib/com.lowagie/itext/jars/itext-2.0.8.jar" />
+    <archive path="/usr/local/grails/grails-2.3.5/lib/commons-beanutils/commons-beanutils/jars/commons-beanutils-1.8.3.jar" />
+    <archive path="/usr/local/grails/grails-2.3.5/lib/commons-cli/commons-cli/jars/commons-cli-1.2.jar" />
+    <archive path="/usr/local/grails/grails-2.3.5/lib/commons-codec/commons-codec/jars/commons-codec-1.6.jar" />
+    <archive path="/usr/local/grails/grails-2.3.5/lib/commons-collections/commons-collections/jars/commons-collections-3.2.1.jar" />
+    <archive path="/usr/local/grails/grails-2.3.5/lib/commons-el/commons-el/jars/commons-el-1.0.jar" />
+    <archive path="/usr/local/grails/grails-2.3.5/lib/commons-fileupload/commons-fileupload/jars/commons-fileupload-1.2.2.jar" />
+    <archive path="/usr/local/grails/grails-2.3.5/lib/commons-io/commons-io/jars/commons-io-2.1.jar" />
+    <archive path="/usr/local/grails/grails-2.3.5/lib/commons-lang/commons-lang/jars/commons-lang-2.6.jar" />
+    <archive path="/usr/local/grails/grails-2.3.5/lib/commons-validator/commons-validator/jars/commons-validator-1.3.1.jar" />
+    <archive path="/usr/local/grails/grails-2.3.5/lib/hsqldb/hsqldb/jars/hsqldb-1.8.0.10.jar" />
+    <archive path="/usr/local/grails/grails-2.3.5/lib/javax.annotation/jsr250-api/jars/jsr250-api-1.0.jar" />
+    <archive path="/usr/local/grails/grails-2.3.5/lib/javax.enterprise/cdi-api/jars/cdi-api-1.0.jar" />
+    <archive path="/usr/local/grails/grails-2.3.5/lib/javax.inject/javax.inject/jars/javax.inject-1.jar" />
+    <archive path="/usr/local/grails/grails-2.3.5/lib/javax.servlet/javax.servlet-api/jars/javax.servlet-api-3.0.1.jar" />
+    <archive path="/usr/local/grails/grails-2.3.5/lib/javax.servlet/jsp-api/jars/jsp-api-2.0.jar" />
+    <archive path="/usr/local/grails/grails-2.3.5/lib/javax.servlet/jstl/jars/jstl-1.1.2.jar" />
+    <archive path="/usr/local/grails/grails-2.3.5/lib/javax.servlet.jsp/jsp-api/jars/jsp-api-2.1.jar" />
+    <archive path="/usr/local/grails/grails-2.3.5/lib/javax.transaction/jta/jars/jta-1.1.jar" />
+    <archive path="/usr/local/grails/grails-2.3.5/lib/jline/jline/jars/jline-2.11.jar" />
+    <archive path="/usr/local/grails/grails-2.3.5/lib/junit/junit/jars/junit-4.11.jar" />
+    <archive path="/usr/local/grails/grails-2.3.5/lib/log4j/log4j/jars/log4j-1.2.17.jar" />
+    <archive path="/usr/local/grails/grails-2.3.5/lib/net.java.dev.jna/jna/jars/jna-4.0.0.jar" />
+    <archive path="/usr/local/grails/grails-2.3.5/lib/opensymphony/sitemesh/jars/sitemesh-2.4.jar" />
+    <archive path="/usr/local/grails/grails-2.3.5/lib/org.apache.ant/ant/jars/ant-1.8.4.jar" />
+    <archive path="/usr/local/grails/grails-2.3.5/lib/org.apache.ant/ant-junit/jars/ant-junit-1.8.4.jar" />
+    <archive path="/usr/local/grails/grails-2.3.5/lib/org.apache.ant/ant-launcher/jars/ant-launcher-1.8.4.jar" />
+    <archive path="/usr/local/grails/grails-2.3.5/lib/org.apache.ant/ant-trax/jars/ant-trax-1.7.1.jar" />
+    <archive path="/usr/local/grails/grails-2.3.5/lib/org.apache.httpcomponents/httpclient/jars/httpclient-4.2.5.jar" />
+    <archive path="/usr/local/grails/grails-2.3.5/lib/org.apache.httpcomponents/httpcore/jars/httpcore-4.2.4.jar" />
+    <archive path="/usr/local/grails/grails-2.3.5/lib/org.apache.ivy/ivy/jars/ivy-2.3.0.jar" />
+    <archive path="/usr/local/grails/grails-2.3.5/lib/org.apache.maven/maven-aether-provider/jars/maven-aether-provider-3.1.1.jar" />
+    <archive path="/usr/local/grails/grails-2.3.5/lib/org.apache.maven/maven-model/jars/maven-model-3.1.1.jar" />
+    <archive path="/usr/local/grails/grails-2.3.5/lib/org.apache.maven/maven-model-builder/jars/maven-model-builder-3.1.1.jar" />
+    <archive path="/usr/local/grails/grails-2.3.5/lib/org.apache.maven/maven-repository-metadata/jars/maven-repository-metadata-3.1.1.jar" />
+    <archive path="/usr/local/grails/grails-2.3.5/lib/org.apache.maven/maven-settings/jars/maven-settings-3.1.1.jar" />
+    <archive path="/usr/local/grails/grails-2.3.5/lib/org.apache.maven/maven-settings-builder/jars/maven-settings-builder-3.1.1.jar" />
+    <archive path="/usr/local/grails/grails-2.3.5/lib/org.apache.tomcat/tomcat-jdbc/jars/tomcat-jdbc-7.0.47.jar" />
+    <archive path="/usr/local/grails/grails-2.3.5/lib/org.apache.tomcat.embed/tomcat-embed-logging-log4j/jars/tomcat-embed-logging-log4j-7.0.47.jar" />
+    <archive path="/usr/local/grails/grails-2.3.5/lib/org.aspectj/aspectjrt/jars/aspectjrt-1.7.2.jar" />
+    <archive path="/usr/local/grails/grails-2.3.5/lib/org.aspectj/aspectjweaver/jars/aspectjweaver-1.7.2.jar" />
+    <archive path="/usr/local/grails/grails-2.3.5/lib/org.bouncycastle/bcpg-jdk15/jars/bcpg-jdk15-1.45.jar" />
+    <archive path="/usr/local/grails/grails-2.3.5/lib/org.bouncycastle/bcprov-jdk15/jars/bcprov-jdk15-1.45.jar" />
+    <archive path="/usr/local/grails/grails-2.3.5/lib/org.codehaus.gant/gant_groovy1.8/jars/gant_groovy1.8-1.9.6.jar" />
+    <archive path="/usr/local/grails/grails-2.3.5/lib/org.codehaus.gpars/gpars/jars/gpars-1.1.0.jar" />
+    <archive path="/usr/local/grails/grails-2.3.5/lib/org.codehaus.groovy/groovy-all/jars/groovy-all-2.1.9.jar" />
+    <archive path="/usr/local/grails/grails-2.3.5/lib/org.codehaus.jsr166-mirror/jsr166y/jars/jsr166y-1.7.0.jar" />
+    <archive path="/usr/local/grails/grails-2.3.5/lib/org.codehaus.plexus/plexus-classworlds/jars/plexus-classworlds-2.4.jar" />
+    <archive path="/usr/local/grails/grails-2.3.5/lib/org.codehaus.plexus/plexus-component-annotations/jars/plexus-component-annotations-1.5.5.jar" />
+    <archive path="/usr/local/grails/grails-2.3.5/lib/org.codehaus.plexus/plexus-interpolation/jars/plexus-interpolation-1.19.jar" />
+    <archive path="/usr/local/grails/grails-2.3.5/lib/org.codehaus.plexus/plexus-utils/jars/plexus-utils-3.0.15.jar" />
+    <archive path="/usr/local/grails/grails-2.3.5/lib/org.eclipse.aether/aether-api/jars/aether-api-0.9.0.M3.jar" />
+    <archive path="/usr/local/grails/grails-2.3.5/lib/org.eclipse.aether/aether-connector-basic/jars/aether-connector-basic-0.9.0.M3.jar" />
+    <archive path="/usr/local/grails/grails-2.3.5/lib/org.eclipse.aether/aether-connector-file/jars/aether-connector-file-0.9.0.M2.jar" />
+    <archive path="/usr/local/grails/grails-2.3.5/lib/org.eclipse.aether/aether-impl/jars/aether-impl-0.9.0.M3.jar" />
+    <archive path="/usr/local/grails/grails-2.3.5/lib/org.eclipse.aether/aether-spi/jars/aether-spi-0.9.0.M3.jar" />
+    <archive path="/usr/local/grails/grails-2.3.5/lib/org.eclipse.aether/aether-transport-file/jars/aether-transport-file-0.9.0.M3.jar" />
+    <archive path="/usr/local/grails/grails-2.3.5/lib/org.eclipse.aether/aether-transport-http/jars/aether-transport-http-0.9.0.M3.jar" />
+    <archive path="/usr/local/grails/grails-2.3.5/lib/org.eclipse.aether/aether-util/jars/aether-util-0.9.0.M3.jar" />
+    <archive path="/usr/local/grails/grails-2.3.5/lib/org.eclipse.sisu/org.eclipse.sisu.inject/jars/org.eclipse.sisu.inject-0.0.0.M5.jar" />
+    <archive path="/usr/local/grails/grails-2.3.5/lib/org.eclipse.sisu/org.eclipse.sisu.plexus/jars/org.eclipse.sisu.plexus-0.0.0.M5.jar" />
+    <archive path="/usr/local/grails/grails-2.3.5/lib/org.fusesource.jansi/jansi/jars/jansi-1.11.jar" />
+    <archive path="/usr/local/grails/grails-2.3.5/lib/org.grails/grails-datastore-core/jars/grails-datastore-core-2.0.7.RELEASE.jar" />
+    <archive path="/usr/local/grails/grails-2.3.5/lib/org.grails/grails-datastore-gorm/jars/grails-datastore-gorm-2.0.7.RELEASE.jar" />
+    <archive path="/usr/local/grails/grails-2.3.5/lib/org.grails/grails-datastore-simple/jars/grails-datastore-simple-2.0.7.RELEASE.jar" />
+    <archive path="/usr/local/grails/grails-2.3.5/lib/org.grails/grails-gdoc-engine/jars/grails-gdoc-engine-1.0.1.jar" />
+    <archive path="/usr/local/grails/grails-2.3.5/lib/org.hamcrest/hamcrest-core/jars/hamcrest-core-1.3.jar" />
+    <archive path="/usr/local/grails/grails-2.3.5/lib/org.hibernate.javax.persistence/hibernate-jpa-2.0-api/jars/hibernate-jpa-2.0-api-1.0.1.Final.jar" />
+    <archive path="/usr/local/grails/grails-2.3.5/lib/org.javassist/javassist/jars/javassist-3.17.1-GA.jar" />
+    <archive path="/usr/local/grails/grails-2.3.5/lib/org.multiverse/multiverse-core/jars/multiverse-core-0.7.0.jar" />
+    <archive path="/usr/local/grails/grails-2.3.5/lib/org.objenesis/objenesis/jars/objenesis-1.4.jar" />
+    <archive path="/usr/local/grails/grails-2.3.5/lib/org.slf4j/jcl-over-slf4j/jars/jcl-over-slf4j-1.7.5.jar" />
+    <archive path="/usr/local/grails/grails-2.3.5/lib/org.slf4j/jul-to-slf4j/jars/jul-to-slf4j-1.7.5.jar" />
+    <archive path="/usr/local/grails/grails-2.3.5/lib/org.slf4j/slf4j-api/jars/slf4j-api-1.7.5.jar" />
+    <archive path="/usr/local/grails/grails-2.3.5/lib/org.slf4j/slf4j-simple/jars/slf4j-simple-1.7.5.jar" />
+    <archive path="/usr/local/grails/grails-2.3.5/lib/org.sonatype.plexus/plexus-cipher/jars/plexus-cipher-1.4.jar" />
+    <archive path="/usr/local/grails/grails-2.3.5/lib/org.sonatype.plexus/plexus-sec-dispatcher/jars/plexus-sec-dispatcher-1.3.jar" />
+    <archive path="/usr/local/grails/grails-2.3.5/lib/org.sonatype.sisu/sisu-guice/jars/sisu-guice-3.1.0-no_aop.jar" />
+    <archive path="/usr/local/grails/grails-2.3.5/lib/org.spockframework/spock-core/jars/spock-core-0.7-groovy-2.0.jar" />
+    <archive path="/usr/local/grails/grails-2.3.5/lib/org.springframework/spring-aop/jars/spring-aop-3.2.6.RELEASE.jar" />
+    <archive path="/usr/local/grails/grails-2.3.5/lib/org.springframework/spring-aspects/jars/spring-aspects-3.2.6.RELEASE.jar" />
+    <archive path="/usr/local/grails/grails-2.3.5/lib/org.springframework/spring-beans/jars/spring-beans-3.2.6.RELEASE.jar" />
+    <archive path="/usr/local/grails/grails-2.3.5/lib/org.springframework/spring-context/jars/spring-context-3.2.6.RELEASE.jar" />
+    <archive path="/usr/local/grails/grails-2.3.5/lib/org.springframework/spring-context-support/jars/spring-context-support-3.2.6.RELEASE.jar" />
+    <archive path="/usr/local/grails/grails-2.3.5/lib/org.springframework/spring-core/jars/spring-core-3.2.6.RELEASE.jar" />
+    <archive path="/usr/local/grails/grails-2.3.5/lib/org.springframework/spring-expression/jars/spring-expression-3.2.6.RELEASE.jar" />
+    <archive path="/usr/local/grails/grails-2.3.5/lib/org.springframework/spring-jdbc/jars/spring-jdbc-3.2.6.RELEASE.jar" />
+    <archive path="/usr/local/grails/grails-2.3.5/lib/org.springframework/spring-jms/jars/spring-jms-3.2.6.RELEASE.jar" />
+    <archive path="/usr/local/grails/grails-2.3.5/lib/org.springframework/spring-test/jars/spring-test-3.2.6.RELEASE.jar" />
+    <archive path="/usr/local/grails/grails-2.3.5/lib/org.springframework/spring-tx/jars/spring-tx-3.2.6.RELEASE.jar" />
+    <archive path="/usr/local/grails/grails-2.3.5/lib/org.springframework/spring-web/jars/spring-web-3.2.6.RELEASE.jar" />
+    <archive path="/usr/local/grails/grails-2.3.5/lib/org.springframework/spring-webmvc/jars/spring-webmvc-3.2.6.RELEASE.jar" />
+    <archive path="/usr/local/grails/grails-2.3.5/lib/org.springframework.uaa/org.springframework.uaa.client/jars/org.springframework.uaa.client-1.0.1.RELEASE.jar" />
+    <archive path="/usr/local/grails/grails-2.3.5/lib/org.springsource.springloaded/springloaded-core/jars/springloaded-core-1.1.4.jar" />
+    <archive path="/usr/local/grails/grails-2.3.5/lib/org.xhtmlrenderer/core-renderer/jars/core-renderer-R8.jar" />
+    <archive path="/usr/local/grails/grails-2.3.5/lib/org.yaml/snakeyaml/jars/snakeyaml-1.8.jar" />
+    <archive path="/usr/local/grails/grails-2.3.5/lib/oro/oro/jars/oro-2.0.8.jar" />
+    <archive path="/usr/local/grails/grails-2.3.5/lib/taglibs/standard/jars/standard-1.1.2.jar" />
+    <archive path="/usr/local/grails/grails-2.3.5/lib/xalan/serializer/jars/serializer-2.7.1.jar" />
+    <archive path="/usr/local/grails/grails-2.3.5/lib/xpp3/xpp3_min/jars/xpp3_min-1.1.4c.jar" />
+  </library>
+  <library name="scala-sdk-2.11.6">
+    <archive path="/Users/emad7105/.ivy2/cache/org.scala-lang/scala-library/jars/scala-library-2.11.6.jar" />
+    <archive path="/Users/emad7105/.ivy2/cache/org.scala-lang/scala-reflect/jars/scala-reflect-2.11.6.jar" />
+  </library>
+</eclipse-userlibraries>
+
